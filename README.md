@@ -15,7 +15,6 @@ CRUD/
 ## Requisitos Previos
 - Python 3.x
 - MySQL
-- pip (Instalador de paquetes de Python)
 
 ## Instrucciones de Configuración
 1. Instalar script `db.sql` en la base de datos MySQL.
